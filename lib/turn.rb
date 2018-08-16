@@ -8,7 +8,6 @@ new_index = input_to_index(user_input)
 
 if valid_move?(board, new_index) == false
   turn(board)
-
 end
 
 
